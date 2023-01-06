@@ -11,12 +11,16 @@
     width: 160px;
     height: 64px;
     border: 0;
-    /* padding: 18px 35px; */
     font-family: 'Work Sans';
     font-weight: 600;
     font-size: 20px;
+    transition-duration: 0.4s;
 }
-
+.btn-css:hover{
+    background-color: #FFF4D6; 
+    color: black;
+    border: 1px;
+}
 header {
     background-image: url(../images/banner/banner3.png);
     background-repeat: no-repeat;
@@ -160,11 +164,7 @@ header {
 .box-title {
     margin-bottom: 15px;
 }
-
-
-
-
-/* MY plan */
+       /* MY plan */
 .my-plan {
     text-align: center;
     margin-bottom: 130px;
@@ -298,4 +298,10 @@ header {
     font-weight: 600;
     font-size: 20px;
     margin-top: 16px;
+    transition-duration: 0.4s;
+}
+.sub-btn:hover {
+background-color: #FFF4D6; 
+color: black;
+border: 1px;
 }
