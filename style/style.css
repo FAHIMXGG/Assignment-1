@@ -108,6 +108,12 @@ header {
 .my-goal-tx {
     margin-bottom: 100px;
     text-align: center;
+    
+}
+
+.my-goal-tx h1{
+    font-weight: 700;
+    font-size: 40px;
 }
 
 .my-goal-tx-para {
