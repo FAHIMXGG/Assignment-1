@@ -16,16 +16,17 @@
     font-size: 20px;
     transition-duration: 0.4s;
 }
-.btn-css:hover{
-    background-color: #FFF4D6; 
+
+.btn-css:hover {
+    background-color: #FFF4D6;
     color: black;
     border: 1px;
 }
+
 header {
     background-image: url(../images/banner/banner3.png);
     background-repeat: no-repeat;
     background-size: cover;
-    /* padding-bottom: 505px; */
     padding-top: 314px;
     padding-bottom: 232px;
 
@@ -33,20 +34,17 @@ header {
 
 .header {
     text-align: right;
-    /* padding: 216px 230px 166px 200px; */
     margin-right: 230px;
 }
 
 .header h1 {
     font-weight: 700;
     font-size: 65px;
-    font-family: 'Work Sans';
     color: #FFFFFF;
     margin-bottom: 24px;
 }
 
 .header p {
-    font-family: 'Work Sans';
     color: #FFFFFF;
     font-weight: 400;
     font-size: 16px;
@@ -54,10 +52,10 @@ header {
 }
 
 /* body */
+
 .profile {
     display: flex;
     justify-content: space-between;
-
 }
 
 .profile-img {
@@ -76,12 +74,10 @@ header {
     font-weight: 700;
     font-size: 40px;
     color: #151414;
-    font-family: 'Work Sans';
     margin-bottom: 24px;
 }
 
 .pro-info-p {
-    font-family: 'Work Sans';
     font-weight: 400;
     font-size: 16px;
     color: #444343;
@@ -95,12 +91,6 @@ header {
 
 }
 
-/* .sign-para-p{
-    font-weight: 400;
-    font-size: 16px;
-    color: #444343;
-    font-family: 'Work Sans';
-} */
 .sign {
     list-style: none;
     margin-bottom: 10px;
@@ -136,7 +126,6 @@ header {
     box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
     padding: 50px 25px;
-    /* justify-content: space-between; */
 }
 
 .box-2 {
@@ -144,7 +133,6 @@ header {
     box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
     padding: 50px 25px;
-    /* justify-content: space-between; */
 }
 
 .box-3 {
@@ -152,7 +140,6 @@ header {
     box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
     padding: 50px 25px;
-    /* justify-content: space-between; */
 }
 
 .box-icon {
@@ -164,7 +151,8 @@ header {
 .box-title {
     margin-bottom: 15px;
 }
-       /* MY plan */
+
+/* MY plan */
 .my-plan {
     text-align: center;
     margin-bottom: 130px;
@@ -176,7 +164,6 @@ header {
     margin-bottom: 50px;
     font-weight: 700;
     font-size: 40px;
-    font-family: 'Work Sans';
     color: #151414;
 }
 
@@ -191,7 +178,6 @@ header {
     font-weight: 700;
     font-size: 30px;
     color: #151414;
-    font-family: 'Work Sans';
     margin-top: 24px;
     margin-bottom: 16px;
 }
@@ -200,14 +186,9 @@ header {
     font-weight: 500;
     font-size: 25px;
     color: #737272;
-    font-family: 'Work Sans';
 }
 
-/*  */
-.gri-back {
-    /* padding: 0px 400px 0px 370px; */
-
-}
+/* gradient */
 
 .gri-text {
     background-image: linear-gradient(to right, #f15d22ea, #f15d2200),
@@ -225,7 +206,6 @@ header {
 .gri-text h1 {
     font-weight: 700;
     font-size: 40px;
-    font-family: 'Work Sans';
     color: #FFFFFF;
     margin-bottom: 24px;
 }
@@ -249,14 +229,16 @@ header {
     color: #FFFFFF;
     margin-bottom: 24px;
 }
-.future a{
+
+.future a {
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
     margin-bottom: 24px;
     text-decoration: none;
 }
-.future-email{
+
+.future-email {
     margin-top: 24px;
 }
 
@@ -287,7 +269,6 @@ header {
     background-color: #000000;
     color: #D9D9D9;
     border: 1px solid white;
-    /* padding: 35px 32px; */
     transition-duration: 0.4s;
     width: 325px;
     height: 50px;
@@ -297,8 +278,7 @@ header {
     border-radius: 7px;
 }
 
-.sub-email {}
-.sub-btn{
+.sub-btn {
     height: 64px;
     background: #005FAC;
     border-radius: 5px;
@@ -306,14 +286,14 @@ header {
     width: 160px;
     height: 64px;
     border: 0;
-    font-family: 'Work Sans';
     font-weight: 600;
     font-size: 20px;
     margin-top: 16px;
     transition-duration: 0.4s;
 }
+
 .sub-btn:hover {
-background-color: #FFF4D6; 
-color: black;
-border: 1px;
+    background-color: #FFF4D6;
+    color: black;
+    border: 1px;
 }
