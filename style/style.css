@@ -15,6 +15,7 @@
     font-weight: 600;
     font-size: 20px;
     transition-duration: 0.4s;
+    cursor: pointer;
 }
 
 .btn-css:hover {
@@ -296,6 +297,7 @@ header {
     font-size: 20px;
     margin-top: 16px;
     transition-duration: 0.4s;
+    cursor: pointer;
 }
 
 .sub-btn:hover {
